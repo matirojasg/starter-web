@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Example of merge
-## Purpose :)
+## Purpose 
 
 Sample website with plenty of files for demos
 
