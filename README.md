@@ -1,7 +1,7 @@
 # Starter Web Repository
 
 This repository is for showing how Git and GitHub work
-Example of merge, expanding this line
+Example of merge, expanding this line. Modifing.
 ## Purpose 
 
 Sample website with plenty of files for demos
